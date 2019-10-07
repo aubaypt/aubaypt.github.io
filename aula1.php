@@ -1,3 +1,7 @@
 <?php
+function olaMae($sujeito)
+{
+    echo "ola   ".$sujeito;
+}
 
-echo "ola mae";
+olaMae($_GET["quem"]);
