@@ -1,2 +1,2 @@
 # training
-Treinamentos - Aubay
+Treinamento - Aubay
