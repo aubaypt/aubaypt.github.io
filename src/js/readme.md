@@ -4,6 +4,7 @@ title: Javascript
 nav_order: 3
 permalink: /js
 has_children: true
+has_toc: false
 ---
 
 # Javascript
