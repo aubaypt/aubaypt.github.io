@@ -1,7 +1,7 @@
 # Aubaypt.github.io 
 
 This repo have a few questions to help the new aubilous.
-Checkout the [Github Page](aubaypt.github.io) for a more pleasant view. :wink:
+Checkout the [Github Page](https://aubaypt.github.io/) for a more pleasant view. :wink:
 
 
 # Help this project

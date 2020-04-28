@@ -5,9 +5,6 @@ nav_order: 2
 permalink: /css
 ---
 
-^-.*\[.*\]\s([a-zA-Z|\s]*)
-
-
 # Css
 {: .no_toc }
 
