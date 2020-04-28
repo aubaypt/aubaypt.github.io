@@ -12,5 +12,5 @@ nav_order: 1
 {: .no_toc }
 
 * [Css](/css)
-* [Js](/js)
-  * [React](/React)
+* [Javascript](/js)
+  * [React](/js/react)
