@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: default
 title: Php
 nav_order: 2
 permalink: /php
----
+--- -->
 
-# Css
+# Php
 {: .no_toc }
 
 ## Table of contents
@@ -19,7 +19,5 @@ WIP!
 
 <details>
 <summary>Answer!</summary>
-
-    No
-
+Sample answer
 </details>
