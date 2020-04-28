@@ -1,0 +1,14 @@
+title: Aubay Training
+description: Aubay training docs
+
+theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+
+
+aux_links:
+  "Aubay website":
+    - "https://www.aubay.pt/"
+
+heading_anchors: true
+
+
