@@ -17,7 +17,7 @@ has_toc: false
 
 ## 1. What is the difference between `==` and `===` ?
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 `===` takes type of variable in consideration, while `==` make type correction based upon values of variables
@@ -33,7 +33,7 @@ has_toc: false
 
 ## 2. What’s the difference between `var`, `let` and `const`?
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 `var` It creates a function-scoped variable that can be reassigned and redeclared. However, due to its lack of block scoping, it can cause issues if the variable is being reused in a loop that contains an asynchronous callback because the variable will continue to exist outside of the block scope.
@@ -82,7 +82,7 @@ var test = person.prop.getFullname;
 console.log(test());
 ```
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 ```js
@@ -96,7 +96,7 @@ console.log(test()); // Ricardo
 
 ## 4. Difference between regular functions and arrow functions
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 `Syntax`, javaScript arrow functions are roughly the equivalent of lambda functions in python or blocks in Ruby, but they have more intricate details. Arrow functions allow a developer to accomplish the same result with fewer lines of code and approximately half the typing.

@@ -19,7 +19,7 @@ parent: Javascript
 
 ## 1. What is the difference between state and props?
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 Both props and state are plain JavaScript objects. While both of them hold information that influences the output of render, they are different in their functionality with respect to component. i.e,
@@ -39,7 +39,7 @@ const Componente = (props) => (
 );
 ```
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 ```html
@@ -68,7 +68,7 @@ render(){
 - [ ] Displays nothing
 - [ ] Error. Should be replaced with a for..loop for correct output
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Displays the list of languages in the array
@@ -77,16 +77,16 @@ render(){
 
 ## 4. How do you write an inline style specifying the font-size:12px and color:red; in JSX?
 
-- [ ] `style={{font-size:12,color:'red'}}`
-- [ ] `style={{fontSize:'12px',color:'red'}}`
+- [ ] `style={ {font-size:12,color:'red'} }`
+- [ ] `style={ {fontSize:'12px',color:'red'} }`
 - [ ] `style={fontSize:'12px',color:'red'}`
-- [ ] `style={{font-size:12px,color:'red'}}`
+- [ ] `style={ {font-size:12px,color:'red'} }`
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 ```jsx
-style={{fontSize:'12px',color:'red'}}
+style={ {fontSize:'12px',color:'red'} }
 ```
 
 The inline CSS is written in a JavaScript object, properties with two names, like `background-color`, must be written with camel case syntax.
@@ -95,11 +95,9 @@ The inline CSS is written in a JavaScript object, properties with two names, lik
 
 ## 5. What is Prop Drilling?
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
-
 Prop drilling (also called "threading") refers to the process you have to go through to get data to parts of the React Component tree. A very simple example of a stateful component that has to pass the props N levels until it be used.
-
 ```jsx
 function Toggle() {
   const [on, setOn] = React.useState(false)
@@ -127,7 +125,7 @@ function SwitchButton({onToggle}) {
 
 ## 6. Difference between Functional and Class-Components?
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
 Since React 16.8([The One With Hooks](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html)) was released the only major difference is in Syntax. Before that function components aren't able to use `state` and `Lifecycle hooks`.   

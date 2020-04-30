@@ -17,7 +17,7 @@ permalink: /php
 ## 1. First Question
 WIP!
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 Sample answer
 </details>

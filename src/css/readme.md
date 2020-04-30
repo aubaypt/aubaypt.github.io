@@ -18,7 +18,7 @@ permalink: /css
 - [ ] No
 - [ ] Yes
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     No
@@ -56,7 +56,7 @@ ul {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
     
     Blue
@@ -94,7 +94,7 @@ li {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Blue
@@ -131,7 +131,7 @@ li {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Red
@@ -168,7 +168,7 @@ ul.list li.favorite span {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Blue
@@ -205,7 +205,7 @@ li > span {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Yellow
@@ -242,7 +242,7 @@ li > span:nth-child(2) {
 - [ ] Yellow
 - [ ] Neither
 
-<details>
+<details markdown="1">
 <summary>Answer!</summary>
 
     Blue
