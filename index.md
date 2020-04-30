@@ -13,4 +13,5 @@ nav_order: 1
 
 * [Css](/css)
 * [Javascript](/js)
+  * [Angular](/js/angular)
   * [React](/js/react)
